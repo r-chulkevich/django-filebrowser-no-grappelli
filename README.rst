@@ -1,3 +1,5 @@
+Forked: Added TinyMCE5 support
+==================
 Django FileBrowser
 ==================
 .. image:: https://api.travis-ci.org/smacker/django-filebrowser-no-grappelli.svg
